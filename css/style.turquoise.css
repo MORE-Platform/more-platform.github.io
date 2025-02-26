@@ -431,7 +431,7 @@ a.list-group-item.active>.badge,
 }
 
 .more_heroimage {
-  background-image: url("/img/MOREBanner.png");
+  background-image: url("/img/MOREBanner.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -517,7 +517,7 @@ a.list-group-item.active>.badge,
 }
 
 .usecases_heroimage {
-  background-image: url("/img/UseCasesBanner.png");
+  background-image: url("/img/UseCasesBanner.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -546,7 +546,7 @@ a.list-group-item.active>.badge,
 }
 
 .aboutmore_heroimage {
-  background-image: url("/img/AboutMoreBanner.png");
+  background-image: url("/img/AboutMoreBanner.jpg");
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -621,7 +621,7 @@ a.list-group-item.active>.badge,
   }
 
   .usecases_heroimage {
-    background-image: url("/img/UseCasesBanner_Mobile.png");
+    background-image: url("/img/UseCasesBanner_Mobile.jpg");
     background-position: top;
   }
 
@@ -631,7 +631,7 @@ a.list-group-item.active>.badge,
   }
 
   .aboutmore_heroimage {
-    background-image: url("/img/AboutMoreBanner_Mobile.png");
+    background-image: url("/img/AboutMoreBanner_Mobile.jpg");
     background-position: top;
   }
 
@@ -640,7 +640,7 @@ a.list-group-item.active>.badge,
 /* Handle device orientation */
 @media screen and (orientation: portrait) {
   .more_heroimage {
-    background-image: url("/img/MoreBanner_Mobile.png");
+    background-image: url("/img/MoreBanner_Mobile.jpg");
     background-position: center;
   }
 
@@ -649,12 +649,12 @@ a.list-group-item.active>.badge,
   }
 
   .usecases_heroimage {
-    background-image: url("/img/UseCasesBanner_Mobile.png");
+    background-image: url("/img/UseCasesBanner_Mobile.jpg");
     background-position: top;
   }
 
   .aboutmore_heroimage {
-    background-image: url("/img/AboutMoreBanner_Mobile.png");
+    background-image: url("/img/AboutMoreBanner_Mobile.jpg");
     background-position: center;
   }
 
@@ -687,7 +687,7 @@ a.list-group-item.active>.badge,
 
 @media screen and (orientation: landscape) {
   .more_heroimage {
-    background-image: url("/img/MOREBanner.png");
+    background-image: url("/img/MOREBanner.jpg");
   }
 
   .nextsteps_heroimage {
@@ -695,12 +695,12 @@ a.list-group-item.active>.badge,
   }
 
   .usecases_heroimage {
-    background-image: url("/img/UseCasesBanner.png");
+    background-image: url("/img/UseCasesBanner.jpg");
     background-position: top;
   }
 
   .aboutmore_heroimage {
-    background-image: url("/img/AboutMoreBanner.png");
+    background-image: url("/img/AboutMoreBanner.jpg");
     background-position: top;
   }
 }
