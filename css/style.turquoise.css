@@ -640,7 +640,7 @@ a.list-group-item.active>.badge,
 /* Handle device orientation */
 @media screen and (orientation: portrait) {
   .more_heroimage {
-    background-image: url("/img/MoreBanner_Mobile.jpg");
+    background-image: url("/img/MOREBanner_Mobile.jpg");
     background-position: center;
   }
 
