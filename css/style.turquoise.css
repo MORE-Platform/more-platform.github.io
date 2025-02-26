@@ -687,7 +687,7 @@ a.list-group-item.active>.badge,
 
 @media screen and (orientation: landscape) {
   .more_heroimage {
-    background-image: url("/img/MoreBanner.png");
+    background-image: url("/img/MOREBanner.png");
   }
 
   .nextsteps_heroimage {
