@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MORE on MORE - Modular Open Research Platform</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content in MORE on MORE - Modular Open Research Platform</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Feb 2025 10:08:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/en/privacy-policy/</link>
+      <pubDate>Thu, 27 Feb 2025 10:08:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/privacy-policy/</guid>
+      <description>&lt;div class=&#34;language-switcher&#34;&gt;&#xA;    &#xA;        &lt;span class=&#34;language-option active&#34;&gt;&#xA;            &lt;a href=&#34;http://localhost:1313/en/privacy-policy/&#34; class=&#34;active&#34;&gt;English&lt;/a&gt;&#xA;        &lt;/span&gt;&#xA;        &lt;span class=&#34;separator&#34;&gt;|&lt;/span&gt;&#xA;        &lt;span class=&#34;language-option &#34;&gt;&#xA;            &lt;a href=&#34;http://localhost:1313/de/privacy-policy/&#34; &gt;Deutsch&lt;/a&gt;&#xA;        &lt;/span&gt;&#xA;    &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;The protection of your personal data is of particular concern to us. We therefore process your data exclusively on the basis of the legal provisions (GDPR, TKG 2021). In this privacy policy, we inform you about the most important aspects of data processing within the framework of our website.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-personal-data&#34;&gt;What is personal data?&lt;/h2&gt;&#xA;&lt;p&gt;Personal data is any information that relates to an identified or identifiable natural person. It is essential to note that data is already considered personal data as soon as a natural person can be identified on the basis of the data (e.g., through assignment of a user identifier). Personal data includes, for example, your name, your address, your telephone number, or your date of birth. Statistical information that cannot be directly or indirectly associated with you (such as the popularity of individual pages of our website or the number of users of a page) is not personal data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Legal Notice</title>
+      <link>http://localhost:1313/en/impressum/</link>
+      <pubDate>Mon, 23 Dec 2024 00:31:48 +0100</pubDate>
+      <guid>http://localhost:1313/en/impressum/</guid>
+      <description>&lt;div class=&#34;language-switcher&#34;&gt;&#xA;    &#xA;        &lt;span class=&#34;language-option active&#34;&gt;&#xA;            &lt;a href=&#34;http://localhost:1313/en/impressum/&#34; class=&#34;active&#34;&gt;English&lt;/a&gt;&#xA;        &lt;/span&gt;&#xA;        &lt;span class=&#34;separator&#34;&gt;|&lt;/span&gt;&#xA;        &lt;span class=&#34;language-option &#34;&gt;&#xA;            &lt;a href=&#34;http://localhost:1313/de/impressum/&#34; &gt;Deutsch&lt;/a&gt;&#xA;        &lt;/span&gt;&#xA;    &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h1 id=&#34;legal-notice&#34;&gt;Legal Notice&lt;/h1&gt;&#xA;&lt;h2 id=&#34;ludwig-boltzmann-institute-for-digital-health-and-prevention&#34;&gt;Ludwig Boltzmann Institute for Digital Health and Prevention&lt;/h2&gt;&#xA;&lt;p&gt;A legally dependent institution of the Ludwig Boltzmann Society&lt;br&gt;&#xA;Lindhofstr. 22&lt;br&gt;&#xA;5020 Salzburg&lt;br&gt;&#xA;Austria&lt;br&gt;&#xA;Tel: +43 (0) 5 7255 82701&lt;br&gt;&#xA;Email: &lt;a href=&#34;mailto:more@dhp.lbg.ac.at&#34;&gt;more@dhp.lbg.ac.at&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;A website of&lt;/p&gt;&#xA;&lt;h2 id=&#34;ludwig-boltzmann-society---austrian-association-for-the-promotion-of-scientific-research&#34;&gt;Ludwig Boltzmann Society - Austrian Association for the Promotion of Scientific Research&lt;/h2&gt;&#xA;&lt;p&gt;Nußdorfer Straße 64,&lt;br&gt;&#xA;6th Floor&lt;br&gt;&#xA;1090 Vienna, Austria&lt;br&gt;&#xA;Tel: +43 1 513 27 50&lt;br&gt;&#xA;Email: &lt;a href=&#34;mailto:office@lbg.ac.at&#34;&gt;office@lbg.ac.at&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://lbg.ac.at&#34;&gt;https://lbg.ac.at&lt;/a&gt;&lt;br&gt;&#xA;Register Number (ZVR): 875209001&lt;br&gt;&#xA;VAT ID: ATU 37866608&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About MORE</title>
+      <link>http://localhost:1313/en/about/</link>
+      <pubDate>Tue, 17 Dec 2024 20:53:15 +0100</pubDate>
+      <guid>http://localhost:1313/en/about/</guid>
+      <description>&lt;!-- **READ THE NOTE BELOW --&gt;&#xA;&lt;!-- NOTE: the &lt;div&gt; tags are pure HTML classes used for creating styling flexibility for the items and their containers. Just ignore those and use Markdown for everything in between the &lt;div&gt; tags. Want to edit the stylesheet (if you know CSS)? Then simply open the style.turquoise.css file, and scroll down to the section titled &#34;ABOUT SECTION&#34; OR press Ctrl+F to search for this text.--&gt;&#xA;&lt;!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ --&gt;&#xA;&lt;div class=&#34;aboutmore_flexedcontainer&#34;&gt;&#xA;&lt;div class=&#34;aboutmore_imagecontainer aboutmore_typography&#34;&gt;&#xA;&lt;!-- EDIT MARKDOWN TEXT BELOW --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/morevisualprototypev1.png&#34; alt=&#34;MORE Visual Prototype&#34; title=&#34;MORE Visual Prototype&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Next Steps</title>
+      <link>http://localhost:1313/en/nextsteps/</link>
+      <pubDate>Tue, 17 Dec 2024 20:53:15 +0100</pubDate>
+      <guid>http://localhost:1313/en/nextsteps/</guid>
+      <description>&lt;!-- **READ THE NOTE BELOW --&gt;&#xA;&lt;!-- NOTE: the &lt;div&gt; tags are pure HTML classes used for creating styling flexibility for the items and their containers. Just ignore those and use Markdown for everything in between the &lt;div&gt; tags. Want to edit the stylesheet (if you know CSS)? Then simply open the style.turquoise.css file, and scroll down to the section titled &#34;NEXT STEPS SECTION&#34; OR press Ctrl+F to search for this text.--&gt;&#xA;&lt;div class=&#34;nextsteps_description&#34;&gt;&#xA;&lt;!-- EDIT MARKDOWN TEXT BELOW --&gt;&#xA;&lt;h3 id=&#34;more-developments&#34;&gt;MORE Developments&lt;/h3&gt;&#xA;&lt;h4 id=&#34;next-steps-for-the-platform&#34;&gt;NEXT STEPS FOR THE PLATFORM&lt;/h4&gt;&#xA;&lt;p&gt;The research space is ever-evolving, so is MORE. This means that we are constantly working on ways to enhance the types of research and studies that can be implemented with MORE. Some things we are working on:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Use Cases</title>
+      <link>http://localhost:1313/en/usecases/</link>
+      <pubDate>Tue, 17 Dec 2024 20:53:15 +0100</pubDate>
+      <guid>http://localhost:1313/en/usecases/</guid>
+      <description>&lt;!-- **READ THE NOTE BELOW --&gt;&#xA;&lt;!-- NOTE: the &lt;div&gt; tags are pure HTML classes used for creating styling flexibility for the items and their containers. Just ignore those and use Markdown for everything in between the &lt;div&gt; tags. Want to edit the stylesheet (if you know CSS)? Then simply open the style.turquoise.css file, and scroll down to the section titled &#34;USE CASES SECTION&#34; OR press Ctrl+F to search for this text.--&gt;&#xA;&lt;!-- START OF CASE STUDY WRAPPER 1 --&gt;&#xA;&lt;div class=&#34;usecases_casestudywrapper&#34;&gt;&lt;div class=&#34;usecase1&#34;&gt;&#xA;&lt;!-- EDIT THE MARKDOWN TEXT BELOW --&gt;&#xA;&lt;p&gt;Use Case #1&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post 3</title>
+      <link>http://localhost:1313/en/posts/post-3/</link>
+      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/en/posts/post-3/</guid>
+      <description>&lt;p&gt;Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post 2</title>
+      <link>http://localhost:1313/en/posts/post-2/</link>
+      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/en/posts/post-2/</guid>
+      <description>&lt;p&gt;Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&lt;/p&gt;&#xA;&lt;p&gt;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia. Velit id fugiat occaecat do tempor. Sit officia Lorem aliquip eu deserunt consectetur. Aute proident deserunt in nulla aliquip dolore ipsum Lorem ut cupidatat consectetur sit sint laborum. Esse cupidatat sit sint sunt tempor exercitation deserunt. Labore dolor duis laborum est do nisi ut veniam dolor et nostrud nostrud.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post 1</title>
+      <link>http://localhost:1313/en/posts/post-1/</link>
+      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/en/posts/post-1/</guid>
+      <description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

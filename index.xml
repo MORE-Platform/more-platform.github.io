@@ -5,22 +5,22 @@
     <link>https://more-platform.github.io/</link>
     <description>Recent content in MORE on MORE - Modular Open Research Platform</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 23 Dec 2024 00:31:48 +0100</lastBuildDate>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Feb 2025 10:08:00 +0100</lastBuildDate>
     <atom:link href="https://more-platform.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Impressum</title>
+      <title>Privacy Policy</title>
+      <link>https://more-platform.github.io/privacy-policy/</link>
+      <pubDate>Thu, 27 Feb 2025 10:08:00 +0100</pubDate>
+      <guid>https://more-platform.github.io/privacy-policy/</guid>
+      <description>&lt;div class=&#34;language-switcher&#34;&gt;&#xA;    &#xA;        &lt;span class=&#34;language-option active&#34;&gt;&#xA;            &lt;a href=&#34;https://more-platform.github.io/en/privacy-policy/&#34; class=&#34;active&#34;&gt;English&lt;/a&gt;&#xA;        &lt;/span&gt;&#xA;        &lt;span class=&#34;separator&#34;&gt;|&lt;/span&gt;&#xA;        &lt;span class=&#34;language-option &#34;&gt;&#xA;            &lt;a href=&#34;https://more-platform.github.io/de/privacy-policy/&#34; &gt;Deutsch&lt;/a&gt;&#xA;        &lt;/span&gt;&#xA;    &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;The protection of your personal data is of particular concern to us. We therefore process your data exclusively on the basis of the legal provisions (GDPR, TKG 2021). In this privacy policy, we inform you about the most important aspects of data processing within the framework of our website.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-personal-data&#34;&gt;What is personal data?&lt;/h2&gt;&#xA;&lt;p&gt;Personal data is any information that relates to an identified or identifiable natural person. It is essential to note that data is already considered personal data as soon as a natural person can be identified on the basis of the data (e.g., through assignment of a user identifier). Personal data includes, for example, your name, your address, your telephone number, or your date of birth. Statistical information that cannot be directly or indirectly associated with you (such as the popularity of individual pages of our website or the number of users of a page) is not personal data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Legal Notice</title>
       <link>https://more-platform.github.io/impressum/</link>
       <pubDate>Mon, 23 Dec 2024 00:31:48 +0100</pubDate>
       <guid>https://more-platform.github.io/impressum/</guid>
-      <description>&lt;h1 id=&#34;imprint&#34;&gt;IMPRINT&lt;/h1&gt;&#xA;&lt;h2 id=&#34;more-modular-open-research-platform-for-digital-health&#34;&gt;MORE: Modular Open Research Platform for Digital Health&lt;/h2&gt;&#xA;&lt;p&gt;Rechtlich unselbstständige Einrichtung der Ludwig Boltzmann Gesellschaft&lt;/p&gt;&#xA;&lt;p&gt;Lindhofstr. 22&lt;/p&gt;&#xA;&lt;p&gt;5020 Salzburg&lt;/p&gt;&#xA;&lt;p&gt;Österreich&lt;/p&gt;&#xA;&lt;p&gt;Tel: &lt;strong&gt;+43 (0) 5 7255 82701&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Email: &lt;strong&gt;&lt;a href=&#34;mailto:more@dhp.lbg.ac.at&#34;&gt;more@dhp.lbg.ac.at&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://more-platform.github.io/privacypolicy/</link>
-      <pubDate>Sun, 22 Dec 2024 23:52:49 +0100</pubDate>
-      <guid>https://more-platform.github.io/privacypolicy/</guid>
-      <description>&lt;h1 id=&#34;privacy-policy-for-the-more-app&#34;&gt;Privacy policy for the MORE app&lt;/h1&gt;&#xA;&lt;p&gt;Ludwig Boltzmann Gesellschaft - Österreichische Vereinigung zur F örderung der wissenschaftlichen Forschung (registered in Nu ßdorfer Stra ße 64, 6. Stock, 1090 Wien, Österreich), represented by Ludwig Boltzmann Institute for Digital Health and Prevention (located at Lindhofstra ße 22, 5020 Salzburg, Austria, Tel +43 (0) 57255 82701; hereinafter “LBI-DHP ”) acts as the data controller of your personal data and takes your privacy and the protection of your personal data seriously.&lt;/p&gt;</description>
+      <description>&lt;div class=&#34;language-switcher&#34;&gt;&#xA;    &#xA;        &lt;span class=&#34;language-option active&#34;&gt;&#xA;            &lt;a href=&#34;https://more-platform.github.io/en/impressum/&#34; class=&#34;active&#34;&gt;English&lt;/a&gt;&#xA;        &lt;/span&gt;&#xA;        &lt;span class=&#34;separator&#34;&gt;|&lt;/span&gt;&#xA;        &lt;span class=&#34;language-option &#34;&gt;&#xA;            &lt;a href=&#34;https://more-platform.github.io/de/impressum/&#34; &gt;Deutsch&lt;/a&gt;&#xA;        &lt;/span&gt;&#xA;    &#xA;&lt;/div&gt;&#xA;&#xA;&lt;h1 id=&#34;legal-notice&#34;&gt;Legal Notice&lt;/h1&gt;&#xA;&lt;h2 id=&#34;ludwig-boltzmann-institute-for-digital-health-and-prevention&#34;&gt;Ludwig Boltzmann Institute for Digital Health and Prevention&lt;/h2&gt;&#xA;&lt;p&gt;A legally dependent institution of the Ludwig Boltzmann Society&lt;br&gt;&#xA;Lindhofstr. 22&lt;br&gt;&#xA;5020 Salzburg&lt;br&gt;&#xA;Austria&lt;br&gt;&#xA;Tel: +43 (0) 5 7255 82701&lt;br&gt;&#xA;Email: &lt;a href=&#34;mailto:more@dhp.lbg.ac.at&#34;&gt;more@dhp.lbg.ac.at&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;A website of&lt;/p&gt;&#xA;&lt;h2 id=&#34;ludwig-boltzmann-society---austrian-association-for-the-promotion-of-scientific-research&#34;&gt;Ludwig Boltzmann Society - Austrian Association for the Promotion of Scientific Research&lt;/h2&gt;&#xA;&lt;p&gt;Nußdorfer Straße 64,&lt;br&gt;&#xA;6th Floor&lt;br&gt;&#xA;1090 Vienna, Austria&lt;br&gt;&#xA;Tel: +43 1 513 27 50&lt;br&gt;&#xA;Email: &lt;a href=&#34;mailto:office@lbg.ac.at&#34;&gt;office@lbg.ac.at&lt;/a&gt;&lt;br&gt;&#xA;&lt;a href=&#34;https://lbg.ac.at&#34;&gt;https://lbg.ac.at&lt;/a&gt;&lt;br&gt;&#xA;Register Number (ZVR): 875209001&lt;br&gt;&#xA;VAT ID: ATU 37866608&lt;/p&gt;</description>
     </item>
     <item>
       <title>About MORE</title>

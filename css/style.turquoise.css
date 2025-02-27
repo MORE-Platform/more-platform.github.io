@@ -4244,7 +4244,7 @@ fieldset[disabled] .btn-template-primary.active {
 
 #thumbs a {
   display: block;
-  border: solid 1px transparent;
+  border: solid 1 px #eeeeee;
 }
 
 #thumbs a.active {
@@ -5158,8 +5158,6 @@ fieldset[disabled] .btn-template-primary.active {
   margin-right: 15px;
   padding: 16px;
   margin-top: 15px;
-  border: none;
-  border-radius: 16px;
 }
 
 .navbar-toggle:focus {
@@ -5603,4 +5601,125 @@ label {
   margin: 0 auto;
   line-height: 1.5;;
   text-align: center;
+}
+
+.privacy-policy-content,
+.impressum-content {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.privacy-policy-content h1,
+.privacy-policy-content h2,
+.impressum-content h1,
+.impressum-content h2 {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.privacy-policy-content p,
+.impressum-content p {
+    text-align: center;
+    margin-bottom: 1em;
+    line-height: 1.6;
+}
+
+.language-switcher {
+    margin: 20px 0;
+}
+
+.language-switcher .btn {
+    margin: 0 5px;
+    min-width: 80px;
+}
+
+.language-switcher .btn.active {
+    cursor: default;
+}
+.language-nav { font-weight: bold; }
+
+
+/* Language Switcher */
+.language-switcher {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 16px;
+}
+
+.language-switcher .language-option {
+    margin: 0 5px;
+}
+
+.language-switcher .separator {
+    color: #999;
+}
+
+.language-switcher a {
+    text-decoration: none;
+    color: #777;
+}
+
+.language-switcher a.active,
+.language-switcher .language-option.active a {
+    font-weight: bold;
+    color: #38a7bb;
+}
+
+/* Centered Content */
+.middlealigning {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.content-center {
+    text-align: center;
+}
+
+.content-center h1,
+.content-center h2 {
+    margin-bottom: 1em;
+}
+
+.content-center p {
+    margin-bottom: 1em;
+    line-height: 1.6;
+}
+
+/* Centered Content */
+.middlealigning {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.content-center {
+    text-align: center;
+}
+
+.content-center h1,
+.content-center h2 {
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.content-center p {
+    text-align: center;
+    margin-bottom: 1em;
+    line-height: 1.6;
+}
+
+.content-center ul,
+.content-center ol {
+    display: inline-block;
+    text-align: left;
+    margin: 0 auto 1em;
+}
+
+.content-center a {
+    display: inline-block;
 }
